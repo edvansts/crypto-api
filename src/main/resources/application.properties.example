@@ -1,0 +1,10 @@
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=
+spring.jpa.show-sql=
+spring.jpa.properties.hibernate.dialect=
+spring.jpa.properties.hibernate.format_sql=
+spring.codec.max-in-memory-size=
+
+server.error.include-message=
